@@ -13,7 +13,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics] at [National University of San Antonio Abad of Cusco]([http://suez.edu.eg/ar/](https://www.unsaac.edu.pe/)).
+- :school: I am a `Junior` at [Faculty of Computers & Informatics](https://www.unsaac.edu.pe/) at the [National University of San Antonio Abad of Cusco].
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
