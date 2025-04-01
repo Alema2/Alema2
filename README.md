@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi , I'm Pamela Villalobos </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<!--  -->Ahttps://github.com/Alema2/Alema2/blob/main/README.md
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Pamela+Villalobos..&hearts;++;Self-taught+Front-End+Developer,;Bachelor's+degree+in+Software+Engineering,;Data+Science+learner,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
@@ -77,9 +77,6 @@ const badri = {
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
-
-
------
 
 
 
