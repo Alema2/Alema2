@@ -13,7 +13,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at Faculty of Computers & Informatics at the [National University of San Antonio Abad of Cusco](https://www.unsaac.edu.pe/).
+- :school: I am a `Junior` at Faculty of  Informatics at the [National University of San Antonio Abad of Cusco](https://www.unsaac.edu.pe/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :technologist: I have a bachelor's degree in Software Engineering and I am learning Computer Science.
 - :nerd_face: Always `learning new things`.
