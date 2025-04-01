@@ -22,15 +22,18 @@
 
 #### A little more about me
 ```javascript
-const badri = {
+const pamela = {
   pronouns: "She" | "Her",
-  code: ["Javascript","C#","Java" "Python", "C++"],
-  askMeAbout: ["web dev", "frontend dev", "python", "node.js"],
-  technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap","reac"],
-      backend: ["Node,js", "JS","Spring boot"],
+  code: ["Javascript", "C#", "Java", "Python", "C++"],
+  askMeAbout: ["web dev", "frontend dev", "fullstack"],
+  personalInterests: {
+      sports: ["Playing sports"],
+      hobbies: ["Collecting things"],
+      nature: ["Enjoying green spaces"],
+      animals: ["I love cats"]
   }
-}
+};
+
 ```
 
 <p>
