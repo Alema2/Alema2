@@ -15,22 +15,21 @@
 
 - :school: I am a `Junior` at [Faculty of Computers & Informatics](https://www.unsaac.edu.pe/) at the [National University of San Antonio Abad of Cusco].
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :bachelor: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
+- :boom: You can visit [MY WEBSITE](#).
 <br>
 
 #### A little more about me
 ```javascript
 const badri = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
+  code: ["Javascript","C#","Java" "Python", "C++"],
   askMeAbout: ["web dev", "frontend dev", "python", "flask"],
   technologies: {
       frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["Flask", "JS"],
+      backend: ["Node,js", "JS"],
   }
 }
 ```
