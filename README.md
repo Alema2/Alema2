@@ -15,10 +15,9 @@
 
 - :school: I am a `Junior` at Faculty of Computers & Informatics at the [National University of San Antonio Abad of Cusco](https://www.unsaac.edu.pe/).
 - :technologist: I love using Software as a solution for every `Problem`.
-- Bachelor: I’m currently learning `Computer Science` and `Software Engineering`.
+- :technologist: I have a bachelor's degree in Software Engineering and I am learning Computer Science.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
-- :boom: You can visit [MY WEBSITE](#).
 <br>
 
 #### A little more about me
@@ -26,10 +25,10 @@
 const badri = {
   pronouns: "She" | "Her",
   code: ["Javascript","C#","Java" "Python", "C++"],
-  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
+  askMeAbout: ["web dev", "frontend dev", "python", "node.js"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["Node,js", "JS"],
+      frontend: ["HTML", "CSS", "JS", "Bootstrap","reac"],
+      backend: ["Node,js", "JS","Spring boot"],
   }
 }
 ```
