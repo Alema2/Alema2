@@ -87,15 +87,20 @@ const pamela = {
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Alema2">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alema2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/TU_USUARIO">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Alema2">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alema2&layout=compact&langs_count=8&theme=algolia"/>
+  
+  <!-- 
+  <a href="https://github.com/TU_USUARIO">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=algolia"/>
   </a>
+  -->
+
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alema2&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=true"/>
 </p>
+
 
