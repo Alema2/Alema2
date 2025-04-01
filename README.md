@@ -24,7 +24,6 @@
 ```javascript
 const pamela = {
   pronouns: "She" | "Her",
-  code: ["Javascript", "C#", "Java", "Python", "C++"],
   askMeAbout: ["web dev", "frontend dev", "fullstack"],
   personalInterests: {
       sports: ["Playing sports"],
