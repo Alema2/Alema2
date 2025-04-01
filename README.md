@@ -24,7 +24,7 @@
 #### A little more about me
 ```javascript
 const badri = {
-  pronouns: "He" | "Him",
+  pronouns: "She" | "Her",
   code: ["Javascript","C#","Java" "Python", "C++"],
   askMeAbout: ["web dev", "frontend dev", "python", "flask"],
   technologies: {
