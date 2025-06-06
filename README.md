@@ -17,7 +17,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :technologist: I have a bachelor's degree in Software Engineering and I am learning Computer Science.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
+- :thinking: I’m currently open for a new `job opportunity`.
 <br>
 
 #### A little more about me
